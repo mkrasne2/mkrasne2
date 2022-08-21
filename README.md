@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋, I'm Mark
 
-<!--
-**mkrasne2/mkrasne2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Self-taught Web3 Developer & Decentralization Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I've been learning:
+
+- Hosting dApps on IPFS: https://github.com/mkrasne2/buy-me-coffee
+- Verifiably random on-chain NFT art: https://github.com/mkrasne2/svg-nfts
+- Communicating with oralces to deliver random results to power decentralized lotteries: https://github.com/mkrasne2/web3-lottery
+
+...and more
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/stochasticgood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stochasticgood" height="30" width="40" /></a>
+
+
+
+
