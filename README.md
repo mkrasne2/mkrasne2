@@ -11,7 +11,7 @@ What I've been learning:
 
 ...and more
 
-Portfolio site at majac.eth.link 
+Portfolio site at https://majac.eth.link/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
